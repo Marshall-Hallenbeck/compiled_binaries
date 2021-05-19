@@ -1,3 +1,5 @@
+# Go use https://github.com/Flangvik/SharpCollection !!!
+
 # compiled_binaries
 Compiled binaries of various security tools
 
